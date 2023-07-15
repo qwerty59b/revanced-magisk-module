@@ -1,4 +1,4 @@
-ChocheTube: 18.25.40  
+YouTube: 18.25.40  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
