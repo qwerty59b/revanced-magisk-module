@@ -1,22 +1,2 @@
-        
-[
-  {
-    "patchName": "custom-branding",
-    "options": [
-      {
-        "key": "appName",
-        "value": "ChocheTube"
-      }
-    ]
-  },
-  {
-    "patchName": "custom-branding-youtube-name",
-    "options": [
-      {
-        "key": "YouTubeAppName",
-        "value": "ChocheTube"
-      }
-    ]
-  }
-]
+[]
         
